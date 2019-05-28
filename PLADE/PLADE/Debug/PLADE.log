@@ -1,0 +1,7 @@
+﻿  main.cpp
+e:\文件\程序\ec\plade\plade\main.cpp(13): warning C4018: “<”: 有符号/无符号不匹配
+e:\文件\程序\ec\plade\plade\main.cpp(25): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+e:\文件\程序\ec\plade\plade\main.cpp(41): warning C4018: “<”: 有符号/无符号不匹配
+e:\文件\程序\ec\plade\plade\main.cpp(186): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+e:\文件\程序\ec\plade\plade\main.cpp(212): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  PLADE.vcxproj -> E:\文件\程序\EC\PLADE\Debug\PLADE.exe
